@@ -4,7 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: hanken Grotesk;
+    font-family: 'Hanken Grotesk', sans-serif;
 
 }
 .box{
@@ -43,7 +43,7 @@
 }
 
 .cerle .top{
-    font-family: Hanken Grotesk;
+    font-family:'Hanken Grotesk', sans-serif;
     color: #FFF;
     font-size: 63px;
     font-weight: bold;
