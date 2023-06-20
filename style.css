@@ -128,7 +128,7 @@ button {
     width: 254px;
     transform: translate(10px,30px);
     margin-top: 45px;
-    background-image: linear-gradient(to bottom,rgb(120, 87, 255), rgb(46, 43, 233));
+    background-color: #303b59;
     color: #fff;
     cursor: pointer;
 }
